@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+pandas
+numpy
+pickle5  # If needed for model loading
